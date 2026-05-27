@@ -1,11 +1,22 @@
-<h3 align="center">formidablae</h3>
+<h1 align="center">Hi 👋, I'm Manas Chatterjee</h1>
+<h3 align="center">A senior software professional from India</h3>
 
-<p align="center">
-	Founder & Lead Software Dev at <a href="https://github.com/savant-realms">Savant Realms</a><br>
-	Milan, Italy
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manasc-zoho&label=Profile%20views&color=0e75b6&style=flat" alt="manasc-zoho" /> </p>
+
+- 🔭 I’m currently working on **AI & Analytics**
+
+- 🌱 I’m currently learning **Crisp-DM framework**
+
+- 👯 I’m looking to collaborate on **business analysis**
+
+- 💬 Ask me about **Power BI, Cognos & GEN AI**
+
+- 📫 How to reach me **c22manas@zohomail.in**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.topcoder.com/members/700156" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/topcoder.svg" alt="700156" height="30" width="40" /></a>
 </p>
-
-<hr>
 
 <p align="center">
 	<img width="450em" src="https://github-readme-stats.vercel.app/api?username=formidablae&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=dark" />
