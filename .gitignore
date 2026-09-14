@@ -1,0 +1,24 @@
+# Ignore Input Data Files across all projects
+data/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Ignore Pipeline Outputs across all projects
+outputs/
+*.png
+
+# Ignore Environment Variables & Secrets
+.env
+
+# Ignore Python virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Jupyter and Python system files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+.DS_Store

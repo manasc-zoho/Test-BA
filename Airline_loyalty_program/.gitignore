@@ -1,0 +1,13 @@
+# Ignore local data files and folders
+data/
+*.csv
+*.xlsx
+*.parquet
+
+# Ignore Python virtual environments
+.venv/
+env/
+
+# Ignore Jupyter and Python system files
+.ipynb_checkpoints/
+__pycache__/

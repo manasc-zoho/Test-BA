@@ -1,0 +1,26 @@
+# Ignore Input Data Files
+data/
+*.csv
+*.xlsx
+*.parquet
+*.zip
+
+# Ignore Pipeline Outputs (Generated Reports & Figures)
+outputs/
+*.png
+
+# Ignore Environment Variables & Secrets
+.env
+
+# Ignore Python virtual environments
+.venv/
+env/
+venv/
+
+# Ignore Jupyter and Python system files
+.ipynb_checkpoints/
+__pycache__/
+*.py[cod]
+
+# Ignore OS generated files (if you ever use a Mac)
+.DS_Store
